@@ -3,4 +3,5 @@
 2. Godzilla
 3. Your Name
 # Repository Contents
-- about-me.
+- about-me.md - Contains my personal information.
+- favorites/movies.md - Contains my favorite movies.
